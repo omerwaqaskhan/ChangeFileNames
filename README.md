@@ -1,4 +1,5 @@
-# ChangeFileNames
+# Python 3.6
+# change-file-name 
 
 This simple Python 3.6 script helps to change the name of the files in a directory.
 
